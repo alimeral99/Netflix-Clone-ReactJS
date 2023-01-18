@@ -2,6 +2,12 @@
 
 [Project-Link](https://poetic-swan-65680e.netlify.app//)
 
+### Exapmle Entry For
+
+- Email:deneme123@gmail.com
+- Password:123456
+ 
+
 # Topics
 - React
 - Redux-Toolkit
